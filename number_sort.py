@@ -42,3 +42,18 @@ def run_tests():
 # Edit this code
 def compare(a, b):
 
+    if a[0] > b[0]:
+        print(a)
+
+    elif a[0] < b[0]:
+        print(b)
+
+    elif a[0] == b[0]:
+        print(a or b)
+
+        
+            
+        
+
+    
+
